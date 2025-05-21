@@ -18,7 +18,7 @@ Untuk mengatasi permasalahan tersebut, dilakukan analisis data akademik dan demo
 
 ## 📌 Cakupan Proyek
 
-* Analisis eksploratif dan pembersihan data
+* Analisis eksploratif (EDA) dan pembersihan data
 * Transformasi dan encoding data kategorikal serta numerik
 * Penanganan outliers dan ketidakseimbangan data
 * Implementasi model machine learning (Random Forest, Logistic Regression, XGBoost)
@@ -93,14 +93,14 @@ Model ini menunjukkan akurasi dan interpretabilitas fitur terbaik di antara keti
 ### 🔍 Feature Importance
 
 * Fitur paling penting berasal dari performa mata kuliah semester 1 & 2
-* Nilai masuk dan usia juga sangat berpengaruh
+* Nilai dan Usia pada saat penerimaan sangat berpengaruh kepada status dropout Mahasiswa
 * Dukungan keuangan seperti beasiswa dan status pembayaran turut memberi dampak
 
 ---
 
 ## 📊 Business Dashboard
 
-🔗 Live App (Streamlit): [https://student-dropout.streamlit.app](https://student-dropout.streamlit.app)
+🔗 Live App (Streamlit): [https://student-dropout.streamlit.app](https://analysis-edutech-jaya-maju.streamlit.app/)
 
 Tersedia 5 menu utama:
 
@@ -145,7 +145,7 @@ GitHub Repo: [https://github.com/AdhiKrisna/Applied-DS-Final-Submission.git](htt
 
 ---
 
-## ⚙️ Setup & Deploy
+## ⚙️ Setup & Run (Local)
 
 ### 1. Clone Repository:
 
@@ -162,7 +162,7 @@ source env/bin/activate  # Windows: .\env\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 3. Jalankan Aplikasi Streamlit
+### 3. Jalankan Aplikasi Streamlit (local)
 
 ```bash
 streamlit run app.py
@@ -182,6 +182,7 @@ Contoh output:
 
 * ✅ Mahasiswa diprediksi **lulus**
 * ⚠️ Mahasiswa diprediksi **dropout**
+* 🎓 Mahasiswa diprediksi lulus **(graduated)**
 
 ---
 
