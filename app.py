@@ -164,5 +164,22 @@ elif menu == "Insights & Recommendations":
     2. **🎯 Umur & Nilai Masuk** — Usia lebih tua dan nilai rendah saat diterima → peningkatan risiko dropout.
     3. **💸 Beasiswa & Biaya Kuliah** — Mahasiswa dengan beasiswa dan pembayaran lancar → lebih besar peluang lulus.
 
-    _Gunakan insight ini untuk intervensi dini terhadap siswa berisiko._
+    """)
+
+    st.markdown("## 🚀 Rekomendasi Action Items")
+    st.markdown("""
+    1. **Deteksi Dini dengan Kurikulum Semester Awal**  
+       Mahasiswa dengan performa semester awal rendah perlu dimasukkan ke program pendampingan belajar.
+
+    2. **Peningkatan Program Bimbingan untuk Mahasiswa Senior**  
+       Usia lebih tua saat masuk memiliki korelasi dengan dropout – butuh pendekatan adaptif.
+
+    3. **Optimalkan Sistem Beasiswa**  
+       Perluasan akses beasiswa dan kemudahan pembayaran terbukti menurunkan risiko dropout.
+
+    4. **Bangun Dashboard Monitoring**  
+       Gunakan dashboard ini sebagai alat monitoring performa akademik dan intervensi cepat.
+
+    5. **Validasi Ulang Jalur Masuk dan Program Studi**  
+       Beberapa jalur masuk atau prodi tertentu menunjukkan tren dropout yang lebih tinggi, perlu evaluasi.
     """)
