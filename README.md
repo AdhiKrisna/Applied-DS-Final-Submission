@@ -100,7 +100,7 @@ Model ini menunjukkan akurasi dan interpretabilitas fitur terbaik di antara keti
 
 ## 📊 Business Dashboard
 
-🔗 Live App (Streamlit): [https://student-dropout.streamlit.app](https://analysis-edutech-jaya-maju.streamlit.app/)
+🔗 Live App (Streamlit): [https://analysis-edutech-jaya-maju.streamlit.app/](https://analysis-edutech-jaya-maju.streamlit.app/)
 
 Tersedia 5 menu utama:
 
