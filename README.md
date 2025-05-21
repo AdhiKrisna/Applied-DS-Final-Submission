@@ -2,13 +2,9 @@
 
 ## 💼 Business Understanding
 
-Jaya Jaya Institut adalah institusi pendidikan tinggi yang telah berdiri sejak tahun 2000 dan telah meluluskan banyak mahasiswa dengan prestasi gemilang. Akan tetapi, dalam perjalanannya, institusi ini menghadapi tantangan besar yaitu **tingginya angka dropout (DO)**. Fenomena ini berdampak negatif pada reputasi institusi dan efektivitas operasional pendidikan.
+Jaya Jaya Institut adalah institusi pendidikan tinggi yang sudah berdiri sejak tahun 2000 dan berhasil meluluskan banyak mahasiswa berprestasi. Namun, saat ini institusi menghadapi tantangan serius berupa tingginya angka dropout (DO) mahasiswa. Masalah ini berpotensi menurunkan reputasi kampus serta mengurangi efektivitas proses pembelajaran.
 
-Sebagai calon data scientist, Anda ditugaskan untuk:
-
-* Menganalisis data akademik dan demografis siswa
-* Memprediksi kemungkinan dropout menggunakan teknik machine learning
-* Membangun dashboard interaktif untuk membantu pihak kampus dalam pemantauan performa siswa
+Untuk mengatasi permasalahan tersebut, dilakukan analisis data akademik dan demografis mahasiswa dengan tujuan memprediksi risiko dropout menggunakan teknik machine learning. Hasil prediksi ini nantinya akan diintegrasikan dalam dashboard interaktif yang membantu pihak institusi memantau dan mengambil langkah preventif terhadap performa mahasiswa.
 
 ---
 
